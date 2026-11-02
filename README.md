@@ -10,11 +10,11 @@ I like the production work that has to go right: multi-region data migrations, z
 
 ## Tech
 
-**Backend:** Java (8–21) · Spring Boot 3 · Spring WebFlux · REST APIs · Microservices
-**Data:** PostgreSQL · Oracle · SAP HANA · Redis · SQL / PL/SQL · Flyway
-**Cloud & Ops:** SAP BTP · Kubernetes · Docker · AWS · Jenkins · GitHub Actions · Dynatrace
-**Messaging & Testing:** Apache Kafka · JUnit 5 · Mockito · Testcontainers
-**Frontend:** JavaScript · SAPUI5 · React · TypeScript
+- **Backend:** Java (8–21) · Spring Boot 3 · Spring WebFlux · REST APIs · Microservices
+- **Data:** PostgreSQL · Oracle · SAP HANA · Redis · SQL / PL/SQL · Flyway
+- **Cloud & Ops:** SAP BTP · Kubernetes · Docker · AWS · Jenkins · GitHub Actions · Dynatrace
+- **Messaging & Testing:** Apache Kafka · JUnit 5 · Mockito · Testcontainers
+- **Frontend:** JavaScript · SAPUI5 · React · TypeScript
 
 ---
 
