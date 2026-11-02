@@ -1,103 +1,37 @@
 # Vinicius Moraes
 
-Senior Backend & Platform Engineer with 15+ years of experience building enterprise-scale applications, distributed systems and cloud platforms across global technology companies including SAP, IBM, Hitachi Vantara and ADP.
+**Senior Software Engineer – Backend (Java)** · Lisbon, Portugal
 
-Focused on backend systems, platform engineering, cloud-native applications and distributed architectures.
+15+ years building and running enterprise systems at SAP, IBM, Hitachi Vantara and ADP. Strong foundation in Java, Spring and relational databases, with recent full-stack work on SAP BTP Cockpit, the administration console of SAP's cloud platform.
 
----
-
-## Main Areas
-
-- Backend Engineering
-- Platform Engineering
-- Distributed Systems
-- Cloud Infrastructure
-- Enterprise Applications
-- Microservices Architecture
-- Cloud-Native Systems
+I like the production work that has to go right: multi-region data migrations, zero-downtime database moves, performance tuning and incident response. I also enjoy mentoring junior engineers.
 
 ---
 
-## Technologies
+## Tech
 
-### Backend & Platform
-Java • Spring Boot • Spring WebFlux • REST APIs • Microservices • Distributed Systems
-
-### Cloud & Infrastructure
-Kubernetes • Docker • CI/CD • Cloud Computing • Platform Engineering
-
-### Databases & Messaging
-PostgreSQL • Redis • Oracle • PL/SQL
-
-### Other Technologies
-TypeScript • JavaScript • Agile Methodologies • Scrum • Scrumban
+**Backend:** Java (8–21) · Spring Boot 3 · Spring WebFlux · REST APIs · Microservices
+**Data:** PostgreSQL · Oracle · SAP HANA · Redis · SQL / PL/SQL · Flyway
+**Cloud & Ops:** SAP BTP · Kubernetes · Docker · AWS · Jenkins · GitHub Actions · Dynatrace
+**Messaging & Testing:** Apache Kafka · JUnit 5 · Mockito · Testcontainers
+**Frontend:** JavaScript · SAPUI5 · React · TypeScript
 
 ---
 
-## Featured Projects
+## Featured project
 
-### Transactional Email Service
-Production-oriented asynchronous email service built with Java and Spring Boot, focusing on reliability, scalability and distributed systems concepts.
+### [Movies With Cache](https://github.com/vmoraesinfo/movies-with-cache)
 
-Features:
-- Asynchronous processing
-- Retry workflows
-- PostgreSQL persistence
-- Docker-based infrastructure
-- Production-oriented backend architecture
-
-Repository:
-- https://github.com/vmoraesinfo/transactional-email-service
+Reactive REST API in Java 21 and Spring WebFlux that aggregates an external movie API behind a Redis cache. Tested with WebTestClient and StepVerifier.
 
 ---
 
-### Movies With Cache
-Reactive backend API built with Java, Spring WebFlux and Redis cache, focusing on asynchronous processing, caching strategies and API integration.
+## Highlights from work
 
-Features:
-- Reactive programming with WebFlux
-- Redis caching
-- External API integration
-- Performance optimization concepts
-
-Repository:
-- https://github.com/vmoraesinfo/movies-with-cache
+- Owned the data migration that consolidated SAP BTP Cockpit's PostgreSQL databases from three regions (Americas, Europe, Asia) into one European database, with staging-schema merge, conflict resolution, feature-flag rollback and Dynatrace validation.
+- Migrated a production database from Oracle to SAP HANA 2.0 with zero downtime (SAP Brazil).
+- Led a payroll-module refactoring that improved calculation performance by 25%, and introduced Jenkins CI/CD that cut deployment time by 40% (ADP).
 
 ---
 
-## Professional Background
-
-Over the years, I have contributed to:
-- Enterprise backend systems
-- Financial applications
-- Cloud platform services
-- Multi-tenant infrastructure
-- Microservices migrations
-- Production-critical applications
-- Database encryption workflows
-- SAP BTP administration platforms
-
-I have also collaborated closely with architects and distributed engineering teams on technical discussions, operational reliability improvements and enterprise platform integrations.
-
----
-
-## Current Interests
-
-- Backend Engineering
-- Platform Engineering
-- Distributed Systems
-- Cloud Infrastructure
-- Kubernetes
-- System Design
-- Scalable Architectures
-- Reliability Engineering
-
----
-
-## Links
-
-- LinkedIn:
-  https://linkedin.com/in/vinicius-moraes-10600025
-
-- GitHub:
-  https://github.com/vmoraesinfo
+[LinkedIn](https://linkedin.com/in/vinicius-moraes-10600025)
